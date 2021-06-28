@@ -13,7 +13,10 @@ dependencies:
   
   # esc_pos_utils: ^1.0.0
   esc_pos_utils:
-    path: ../esc_pos_utils_null_safety
+    git:
+      url: git@github.com:lucasralves/esc_pos_utils_null_safety.git
+      ref: master
+    # path: ../esc_pos_utils_null_safety
   charset_converter: ^2.0.0
   image: ^3.0.1
 
