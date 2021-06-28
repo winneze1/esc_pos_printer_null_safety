@@ -36,13 +36,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0"
-  charset_converter:
-    dependency: "direct main"
-    description:
-      name: charset_converter
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "2.0.0"
   clock:
     dependency: transitive
     description:
@@ -75,11 +68,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.0"
-      resolved-ref: fc397fefc024fef7934d13a43d01a5981c2a71f1
+      ref: HEAD
+      resolved-ref: "776a719a59f5e8d3fcf3c4b57e99402eddeaebc1"
       url: "git@github.com:lucasralves/esc_pos_utils_null_safety.git"
     source: git
-    version: "1.0.0"
+    version: "0.3.6"
   fake_async:
     dependency: transitive
     description:
@@ -119,7 +112,7 @@ packages:
     source: hosted
     version: "0.15.0"
   image:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: image
       url: "https://pub.dartlang.org"
@@ -223,4 +216,3 @@ packages:
     version: "5.1.2"
 sdks:
   dart: ">=2.13.0 <3.0.0"
-  flutter: ">=1.10.0"
