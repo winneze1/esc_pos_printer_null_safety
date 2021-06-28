@@ -75,11 +75,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: master
-      resolved-ref: "066c92b61702f15dac81ca084e9e9bde63eeb429"
+      ref: "v1.0.0"
+      resolved-ref: fc397fefc024fef7934d13a43d01a5981c2a71f1
       url: "git@github.com:lucasralves/esc_pos_utils_null_safety.git"
     source: git
-    version: "0.3.2"
+    version: "1.0.0"
   fake_async:
     dependency: transitive
     description:

@@ -63,7 +63,7 @@
     },
     {
       "name": "esc_pos_utils",
-      "rootUri": "file:///home/lucasalv/snap/flutter/common/flutter/.pub-cache/git/esc_pos_utils_null_safety-066c92b61702f15dac81ca084e9e9bde63eeb429/",
+      "rootUri": "file:///home/lucasalv/snap/flutter/common/flutter/.pub-cache/git/esc_pos_utils_null_safety-fc397fefc024fef7934d13a43d01a5981c2a71f1/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -200,7 +200,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-06-28T18:26:21.347531Z",
+  "generated": "2021-06-28T18:36:31.447931Z",
   "generator": "pub",
   "generatorVersion": "2.13.3"
 }
